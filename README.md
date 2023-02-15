@@ -17,11 +17,11 @@ I am an entry-level Java developer seeking to land my first job in the industry.
 
 ## 🌱 Education
 
-- Java Profile, [MJC School], [In progress]
-- Java Programming Course, [EPAM], [2022]
-- C++ Programming Course, [NOKIA], [2021]
-- Engineer's degree in Geodesy and Cartography, [University of Warmia and Mazury], [2012]
-- General Secondary School with extended mathematics and computer science, [2008]
+- Java Profile, MJC School, In progress
+- Java Programming Course, EPAM, 2022
+- C++ Programming Course, NOKIA, 2021
+- Engineer's degree in Geodesy and Cartography, University of Warmia and Mazury, 2012
+- General Secondary School with extended mathematics, computer science and English, 2008
 
 ## 💬 Let's Connect
 
